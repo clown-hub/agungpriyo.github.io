@@ -72,16 +72,16 @@
 	<rect x="14.6" y="216.84" class="st3" width="185.23" height="23.14"/>
 	<rect x="14.6" y="411.21" class="st3" width="185.23" height="23.14"/>
 	<rect x="14.6" y="589.41" class="st3" width="185.23" height="23.14"/>
-	<text transform="matrix(1 0 0 1 78.3645 233.9905)" class="st0 st8 st9 st13">CONTACT</text>
-	<text transform="matrix(1 0 0 1 87.5286 428.5589)" class="st0 st8 st9 st13">SKILLS</text>
-	<text transform="matrix(1 0 0 1 75.2888 607.2737)" class="st0 st8 st9 st13">LENGUAGE</text>
+	<text transform="matrix(1 0 0 1 81.4304 233.9905)" class="st0 st8 st9 st13">KONTAK</text>
+	<text transform="matrix(1 0 0 1 67.1184 428.5589)" class="st0 st8 st9 st13">KEMAMPUAN</text>
+	<text transform="matrix(1 0 0 1 82.2424 607.2737)" class="st0 st8 st9 st13">BAHASA</text>
 	<rect x="14.38" y="714.74" class="st3" width="185.23" height="23.14"/>
 	<g>
-		<text transform="matrix(1 0 0 1 78.8572 732.6008)" class="st0 st8 st9 st13">INTEREST</text>
+		<text transform="matrix(1 0 0 1 91.8474 732.6008)" class="st0 st8 st9 st13">HOBI</text>
 	</g>
 	<g>
 		<g>
-			<text transform="matrix(1.02 0 0 1 64.114 472.6858)"><tspan x="0" y="0" class="st14 st15 st16">WEB DESIGN</tspan><tspan x="0" y="19.39" class="st14 st15 st16">GRAPHIC DESIGN</tspan><tspan x="0" y="38.78" class="st14 st15 st16">UI DESIGN</tspan><tspan x="0" y="58.17" class="st14 st15 st16">DRAWING</tspan><tspan x="0" y="77.56" class="st14 st15 st16">ANIMATION</tspan></text>
+			<text transform="matrix(1.02 0 0 1 64.114 472.6858)"><tspan x="0" y="0" class="st14 st15 st16">WEBSITE BUILDING</tspan><tspan x="0" y="19.39" class="st14 st15 st16">GRAPHIC DESIGN</tspan><tspan x="0" y="38.78" class="st14 st15 st16">COMPUTER (REPAIR)</tspan><tspan x="0" y="58.17" class="st14 st15 st16">NETWORKING</tspan><tspan x="0" y="77.56" class="st14 st15 st16">MICROSOFT ( W, E, P, A )</tspan></text>
 		</g>
 		<path class="st14" d="M48.42,468.27c0,1.41-1.14,2.55-2.55,2.55c-1.41,0-2.55-1.14-2.55-2.55c0-1.41,1.14-2.55,2.55-2.55
 			C47.28,465.72,48.42,466.86,48.42,468.27z"/>
@@ -96,7 +96,7 @@
 	</g>
 	<g>
 		<g>
-			<text transform="matrix(1.02 0 0 1 64.114 648.8401)"><tspan x="0" y="0" class="st14 st15 st16">ESPAÑOL</tspan><tspan x="0" y="19.39" class="st14 st15 st16">ENGLISH</tspan><tspan x="0" y="38.78" class="st14 st15 st16">JAPONES</tspan></text>
+			<text transform="matrix(1.02 0 0 1 64.114 648.8401)"><tspan x="0" y="0" class="st14 st15 st16">INDONESIA</tspan><tspan x="0" y="19.39" class="st14 st15 st16">INGGRIS</tspan><tspan x="0" y="38.78" class="st14 st15 st16">JAWA</tspan></text>
 		</g>
 		<path class="st14" d="M48.42,644.42c0,1.41-1.14,2.55-2.55,2.55c-1.41,0-2.55-1.14-2.55-2.55c0-1.41,1.14-2.55,2.55-2.55
 			C47.28,641.87,48.42,643.01,48.42,644.42z"/>
@@ -453,8 +453,8 @@ r1fnXq/OvV+der869X516vzqvxfnXq/OvV+der86leD4vi67fDj43SjzbctH/9k=" transform="mat
 			<text transform="matrix(1 0 0 1 347.7655 605.1619)" class="st24 st15 st9">RSIA KASIH BUNDA </text>
 		</g>
 		<text transform="matrix(1 0 0 1 347.7655 501.2635)"><tspan x="0" y="0" class="st25 st26 st16">Sebagai SALES PROMOTION BOY penampatan</tspan><tspan x="0" y="10.06" class="st25 st26 st16">TRANSMART dan GOLDEN Kediri.</tspan></text>
-		<text transform="matrix(1 0 0 1 347.7655 565.3113)" class="st25 st26 st16">Sebagai IT STAFF .</text>
-		<text transform="matrix(1 0 0 1 347.7655 621.3602)" class="st25 st26 st16">Sebagai IT STAFF</text>
+		<text transform="matrix(1 0 0 1 347.7655 565.3113)"><tspan x="0" y="0" class="st25 st26 st16">Sebagai IT STAFF , membuat database untuk siswa</tspan><tspan x="0" y="10.06" class="st25 st26 st16">mengelola website ( https://www.aerogroup.sch.id/) </tspan></text>
+		<text transform="matrix(1 0 0 1 347.7655 621.3602)"><tspan x="0" y="0" class="st25 st26 st16">Sebagai IT STAFF, bertanggung jawab memberikan solusi </tspan><tspan x="0" y="10.06" class="st25 st26 st16">untuk masalah komputer dan jaringan yang tersedia.</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -521,7 +521,7 @@ r1fnXq/OvV+der869X516vzqvxfnXq/OvV+der86leD4vi67fDj43SjzbctH/9k=" transform="mat
 	</g>
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 263.6688 665.2723)" class="st7 st8 st9">REFERENCES</text>
+			<text transform="matrix(1 0 0 1 263.6688 665.2723)" class="st7 st8 st9">KUALIFIKASI</text>
 		</g>
 		<path class="st6" d="M241.33,658.53c0.92-0.59,1.53-1.62,1.53-2.79c0-1.83-1.49-3.32-3.32-3.32c-1.83,0-3.32,1.49-3.32,3.32
 			c0,1.17,0.61,2.2,1.53,2.79c-2.16,0.19-3.87,2.02-3.87,4.23v3.44l0.01,0.05l0.24,0.07c2.24,0.7,4.18,0.93,5.78,0.93
@@ -760,7 +760,7 @@ r1fnXq/OvV+der869X516vzqvxfnXq/OvV+der86leD4vi67fDj43SjzbctH/9k=" transform="mat
 				</g>
 			</g>
 			<text transform="matrix(1.02 0 0 1 56.6199 285.4456)" class="st0 st15 st30 st27">AP17011997@GMAIL.COM</text>
-			<text transform="matrix(1.02 0 0 1 56.6199 368.8538)" class="st0 st15 st30 st27">YOURNAME .COM</text>
+			<text transform="matrix(1.02 0 0 1 56.6199 368.8538)" class="st0 st15 st30 st27">clown-hub.github.io/cv.io</text>
 			<text transform="matrix(1.02 0 0 1 56.6199 311.1643)" class="st0 st15 st30 st27">+62 8575 5187 746</text>
 			<text transform="matrix(1.02 0 0 1 56.6199 339.8675)" class="st0 st15 st30 st27">Kepung - Kediri - East Java</text>
 		</g>
